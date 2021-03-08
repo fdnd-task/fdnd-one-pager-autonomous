@@ -1,12 +1,13 @@
-# {Naam}
+# FDND huisstijl pagina met inschrijfformulier
 
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+Voor de opdracht FDND-huisstijl-pagina-met-inschrijfformulier leer je een pagina maken in de huisstijl van FDND waarmee mensen zich kunnen inschrijven voor een workshop.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Leertaak: {Beschrijving van de leertaak}. Deze leertaak hoort bij {sprint # "titel van de sprint}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Leertaak: Maak one-page actie site op basis van een bestaande huisstijl.
+Deze leertaak hoort bij sprint 4 "The Campaign".
+Dit is een zelfstandige opdracht die je individueel uitvoert voor FDND.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
